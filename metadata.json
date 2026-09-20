@@ -1,0 +1,6 @@
+{
+  "name": "Top Tune Electronics",
+  "description": "Electronics shop in Abbottabad, Pakistan offering sales, repair, CCTV installation, dish antennas, and networking with direct WhatsApp inquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
